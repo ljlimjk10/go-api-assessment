@@ -32,4 +32,4 @@ make test
 
 ## API Endpoints
 
-Download and install Postman GUI [here](https://www.postman.com/).
+Download and install Postman GUI [here](https://www.postman.com/dark-meadow-620435/workspace/govtech-onecv-assessment/collection/16044010-e0877507-9025-4218-b942-2dcf557cb3a8?action=share&creator=16044010).
